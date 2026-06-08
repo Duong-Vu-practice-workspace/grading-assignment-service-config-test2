@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: assignment-service
-          image: DOCKERHUB_USERNAME/grading-assignment:IMAGE_TAG_REPLACEMENT
+          image: vucongtuanduong/grading-assignment:v1.0.0
           ports:
             - containerPort: 8081
           env:
