@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: assignment-service
-          image: vucongtuanduong/grading-assignment:v1.0.2
+          image: vucongtuanduong/grading-assignment:v1.0.4
           ports:
             - containerPort: 8081
           env:
