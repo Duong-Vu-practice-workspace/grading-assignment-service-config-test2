@@ -1,4 +1,5 @@
 name: assignment-service
+hostname: assignment
 
 replicaCount: 1
 
